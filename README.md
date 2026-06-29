@@ -1,3 +1,7 @@
+PORT="3000"
+NODE_ENV="development"
+
+DATABASE_URL="postgresql://postgres:123456@localhost:5432/next_blog_db"
 
 # Next Blog Starter
 
